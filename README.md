@@ -95,10 +95,70 @@ Cleaning pipeline improves quality significantly<br>
 Trend visualization reveals growth potential<br>
 
 
-👥 Contributors
+
+# 📊 Sprint 2 – Advanced Intelligence & Visualizatio
+## ⭐ 1. Executive Summary
+
+In Sprint 2, the project moved from basic data processing to **advanced AI-based analysis and better visual results**.
+We focused on three main modules:
+
+* **Module 1: Analysis Engine**
+* **Module 2: Trend Forecasting**
+* **Module 3: Alert System**
+
+All goals for these modules were completed.
+
+### Key Achievements
+
+* Replaced simple TextBlob sentiment analysis with **Gemini API**, which gives more accurate and structured sentiment results.
+* Set up historical price data using **yfinance** to prepare for future prediction models.
+* Built a **Slack Alert System** that sends alerts when sentiment drops or price changes a lot.
+* Created an **interactive dashboard** with price trend, LLM sentiment, and summaries.
+
+---
+
+## ✅ 2. Milestone Fulfillment & Status
+
+| **Milestone (Planned)**          | **Work Completed (Infosys_Project.ipynb)**                                           | **Status** |
+| -------------------------------- | ------------------------------------------------------------------------------------ | ---------- |
+| Replace basic sentiment with LLM | Gemini API integrated using Function Calling for structured sentiment and summaries  | ✔ Complete |
+| Start trend forecasting setup    | Collected updated price data using yfinance for upcoming models (ARIMA/LSTM/Prophet) | ✔ Complete |
+| Design alert system              | Created and tested Slack alert function and alert triggers                           | ✔ Complete |
+| Create strategic dashboard       | Combined all results into one interactive dashboard using Plotly                     | ✔ Complete |
+
+---
+
+## 🎯 3. Conclusion
+
+Sprint 2 showed that the system can now:
+
+* Pull and update data
+* Analyze sentiment using a strong LLM
+* Send alerts automatically
+* Display everything clearly in a dashboard
+
+This gives the project a solid intelligence layer.
+
+---
+
+## 🚀 4. Transition to Sprint 3
+
+In Sprint 3, the focus will be on **building the prediction model** and using it in alerts.
+
+### Goals for Sprint 3:
+
+1. Build the actual **price forecasting model** (ARIMA / Prophet / LSTM).
+2. Add the forecast results to the **alert system**.
+3. Use Gemini LLM to explain **why** the price may rise or fall based on predictions.
+
+---
+
+ Contributors
 <br>
- **Anshika Gupta** <br>
- **Gopichand**     <br>
- **Janmejay Singh**      <br>
+ Anshika Gupta <br>
+ Gopichand    <br>
+ Janmejay Singh 
+ Vaishnavi Mahindrakar      <br>
+ 
 
 
