@@ -157,7 +157,7 @@ In Sprint 3, the focus will be on **building the prediction model** and using it
 <br>
  Anshika Gupta <br>
  Gopichand    <br>
- Janmejay Singh 
+ Janmejay Singh <br>
  Vaishnavi Mahindrakar      <br>
  
 
